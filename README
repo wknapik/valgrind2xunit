@@ -1,0 +1,4 @@
+valgrind2xunit transforms valgind XML output into xUnit format. 
+
+To facilitate the tracking of failures over time (e.g. in a Hudson/Jenkins
+job), the script can produce a report with a fixed number of tests.
